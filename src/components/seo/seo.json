@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_seo_seos",
+  "info": {
+    "displayName": "Main",
+    "icon": "search",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "MetaDescription": {
+      "type": "text",
+      "required": true
+    }
+  }
+}
