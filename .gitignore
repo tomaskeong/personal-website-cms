@@ -112,3 +112,8 @@ exports
 *.cache
 build
 .strapi-updater.json
+
+############################
+# This is needed for Heroku deployment
+############################
+package-lock.json
